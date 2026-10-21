@@ -2,8 +2,6 @@
 
 Ứng dụng Windows mô phỏng một dây chuyền phân loại sản phẩm bằng băng tải. Chọn loại sản phẩm, chạy băng tải và quan sát sản phẩm đi qua cảm biến, tiến theo encoder rồi được cần gạt hướng vào làn tương ứng.
 
-> Đây là phần mềm mô phỏng để học tập và trình bày luồng điều khiển. Ứng dụng chưa kết nối PLC hoặc thiết bị công nghiệp thật.
-
 ## Phần mềm làm được gì?
 
 - Thêm sản phẩm loại A, B, C hoặc không xác định.
